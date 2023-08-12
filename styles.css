@@ -10,8 +10,7 @@
   background: aqua;
   width: 100vw;
   height: 100vh;
-  background: url("https://dvyvvujm9h0uq.cloudfront.net/com/articles/1649313062-faizur-rehman-phpzdehn6os-unsplash.jpg")
-    no-repeat center center;
+  background: url("/BackgroundImage.jpeg") no-repeat center center;
   background-size: cover;
   color: white;
 }
