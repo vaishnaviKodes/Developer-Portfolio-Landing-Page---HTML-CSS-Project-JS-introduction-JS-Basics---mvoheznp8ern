@@ -10,7 +10,7 @@
   background: aqua;
   width: 100vw;
   height: 100vh;
-  background: url("/BackgroundImage.jpeg") no-repeat center center;
+  background: url("./BackgroundImage.jpeg") no-repeat center center;
   background-size: cover;
   color: white;
 }
